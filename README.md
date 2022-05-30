@@ -1,6 +1,6 @@
 # **NHost**
 > ## **Introduction**:
-### NHost python tool, can give you host number version **IPv4** by type any site name.
+### NHost python tool, can give you host number by type any site name.
 for example:
 ```
 > Enter Host Name: www.google.com
@@ -18,5 +18,5 @@ for example:
 ```python mip.py```
 
 ---
-***[code]Box*** | ***Andrei A. Abd*** | ***1993-20202***
+***[code]Box*** | ***Andrei A. Abd*** | ***1993-2022***
 
