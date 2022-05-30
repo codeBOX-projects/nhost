@@ -9,7 +9,7 @@ for example:
 ---
 > ## **Install & Usage**:
 ### **| clone repository :**
-```git clone https://github.com/codeBOX-projects/nhost```
+```git clone https://github.com/codeBOX-projects/nhost.git```
 ### **| enter directory mip**
 ```cd nhost```
 ### **| install requirements**
