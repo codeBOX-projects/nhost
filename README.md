@@ -15,7 +15,7 @@ for example:
 ### **| install requirements**
 ```pip install -r requirements.txt ```
 ### **| lunch by :**
-```python mip.py```
+```python nhost.py```
 
 ---
 ***[code]Box*** | ***Andrei A. Abd*** | ***1993-2022***
